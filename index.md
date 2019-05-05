@@ -165,7 +165,7 @@ Você sabia que 80% dos problemas não conseguimos resolver, e são resultado de
 
 ### Patrocínio
 
-[![Biscoitos Zezé](images/logo_zeze.png)](www.zeze.com.br)
+[![Biscoitos Zezé](images/logo_zeze.png)](http://www.zeze.com.br)
 [![Cervejaria Bulldog](images/logo_bulldog.png)](https://www.instagram.com/cervejariabulldog/)
 
 ### Divulgação
