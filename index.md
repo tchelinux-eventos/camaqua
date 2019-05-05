@@ -165,6 +165,9 @@ Você sabia que 80% dos problemas não conseguimos resolver, e são resultado de
 
 ### Patrocínio
 
+[![Biscoitos Zezé](images/logo_zeze.png)](www.zeze.com.br)
+[![Cervejaria Bulldog](images/logo_bulldog.png)](https://www.instagram.com/cervejariabulldog/)
+
 ### Divulgação
 
 [![Blog Diolinux](images/logo_diolinux.png)](https://www.diolinux.com.br/)
