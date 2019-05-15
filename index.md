@@ -168,6 +168,11 @@ Você sabia que 80% dos problemas não conseguimos resolver, e são resultado de
 [![Biscoitos Zezé](images/logo_zeze.png)](http://www.zeze.com.br)
 [![Cervejaria Bulldog](images/logo_bulldog.png)](https://www.instagram.com/cervejariabulldog/)
 
+
+[![Lojas Pompeia](images/logo_pompeia.png)](https://www.lojaspompeia.com/)
+[![Gang](images/logo_gang.png)](https://www.gang.com.br/)
+
+
 ### Divulgação
 
 [![Blog Diolinux](images/logo_diolinux.png)](https://www.diolinux.com.br/)
