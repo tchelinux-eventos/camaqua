@@ -172,6 +172,7 @@ Você sabia que 80% dos problemas não conseguimos resolver, e são resultado de
 [![Gang](images/logo_gang.png)](https://www.gang.com.br/)
 [![Refrigerantes Biri](images/logo_biri.png)](https://www.biri.ind.br/)
 [![Clip Livraria Center](images/logo_clip.png)](https://www.facebook.com/livraria.center/)
+[![Erva Mate Barão](images/logo_barao.png)](https://www.baraoervamate.com.br/)
 
 ### Divulgação
 
