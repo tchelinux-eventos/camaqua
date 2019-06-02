@@ -175,6 +175,7 @@ Você sabia que 80% dos problemas não conseguimos resolver, e são resultado de
 [![Clip Livraria Center](images/logo_clip.png)](https://www.facebook.com/livraria.center/)
 
 [![Erva Mate Barão](images/logo_barao.png)](https://www.baraoervamate.com.br/)
+[![Sicredi](images/logo_sicredi.png)](https://www.sicredi.com.br/site/)
 
 ### Divulgação
 
