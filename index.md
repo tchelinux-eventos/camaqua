@@ -167,11 +167,13 @@ Você sabia que 80% dos problemas não conseguimos resolver, e são resultado de
 
 [![Biscoitos Zezé](images/logo_zeze.png)](http://www.zeze.com.br)
 [![Cervejaria Bulldog](images/logo_bulldog.png)](https://www.instagram.com/cervejariabulldog/)
-[![Lojas Pompeia](images/logo_pompeia.png)](https://www.lojaspompeia.com/)
 
+[![Lojas Pompeia](images/logo_pompeia.png)](https://www.lojaspompeia.com/)
 [![Gang](images/logo_gang.png)](https://www.gang.com.br/)
+
 [![Refrigerantes Biri](images/logo_biri.png)](https://www.biri.ind.br/)
 [![Clip Livraria Center](images/logo_clip.png)](https://www.facebook.com/livraria.center/)
+
 [![Erva Mate Barão](images/logo_barao.png)](https://www.baraoervamate.com.br/)
 
 ### Divulgação
