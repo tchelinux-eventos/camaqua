@@ -172,6 +172,10 @@ Você sabia que 80% dos problemas não conseguimos resolver, e são resultado de
 [![Lojas Pompeia](images/logo_pompeia.png)](https://www.lojaspompeia.com/)
 [![Gang](images/logo_gang.png)](https://www.gang.com.br/)
 
+[![Refrigerantes Biri](images/logo_biri.png)](https://www.biri.ind.br/)
+
+
+
 
 ### Divulgação
 
