@@ -18,7 +18,7 @@ Serão fornecidos certificados digitais para os participantes do evento, que con
 
 ## Programação
 
-| <center> Horário </center> | <center> Sala 1 <br> Desenvolvimento I </center> | <center> Sala 2 <br> Desenvolvimento II  </center> | <center> Sala 3 <br> DevOps e Comunidade </center> |
+| <center> Horário </center> | <center> Sala 702 <br> Desenvolvimento I </center> | <center> Sala 703 <br> Desenvolvimento II  </center> | <center> Sala 704 <br> DevOps e Comunidade </center> |
 |:--------------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | **08:30** <td colspan=4><center>**Credenciamento**</center> |
 | **09:00** <td colspan=4><center>**Abertura**<br> <span class="label label-info">Todo o público</span> <br>Equipe Tchelinux<br> </center> |
