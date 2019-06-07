@@ -22,7 +22,7 @@ Serão fornecidos certificados digitais para os participantes do evento, que con
 |:--------------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | **08:30** <td colspan=4><center>**Credenciamento**</center> |
 | **09:00** <td colspan=4><center>**Abertura**<br> <span class="label label-info">Todo o público</span> <br>Equipe Tchelinux<br> </center> |
-| **09:30** <td colspan=4><center>[**Que é Software Livre e o que ele pode fazer por você?**](#Que_é_Software_Livre_e_o_que_ele_pode_fazer_por_você?)<br> <span class="label label-success">Principiante</span> <br>Equipe Tchelinux<br> </center> |
+| **09:30** <td colspan=4><center>[**Que é Software Livre e o que ele pode fazer por você?**](#Que_é_Software_Livre_e_o_que_ele_pode_fazer_por_você?)<br> <span class="label label-success">Principiante</span> <br>Leonardo Vaz<br></center> |
 | **10:30** <td colspan=4><center>[**Porque e Como Participar de Projetos Open Source**](#Porque_e_Como_Participar_de_Projetos_Open_Source)<br> <span class="label label-success">Principiante</span> <br>Julio Biason<br> </center> |
 | **11:30** <td colspan=4><center>**Intervalo para Almoço**</center> |
 | **13:30** | [**Desenvolvendo jogos com Python e pygame**](#Desenvolvendo_jogos_com_Python_e_pygame) <br> <span class="label label-success">Principiante</span> <br> Rafael Jeffman | [**Web Developer Starter Pack: Tudo o que você precisa saber para começar a trabalhar com desenvolvimento web**](#Web_Developer_Starter_Pack:_Tudo_o_que_você_precisa_saber_para_começar_a_trabalhar_com_desenvolvimento_web)  <br> <span class="label label-success">Principiante</span> <br> José Carlo de Camargo | [**Testes de Software**](#Testes_de_Software) <br> <span class="label label-warning">Intermediário</span> <br> Robson Tietz de Oliveira |
@@ -38,9 +38,9 @@ Serão fornecidos certificados digitais para os participantes do evento, que con
 
 O Software Livre está em todo o lugar: além de viabilizar a Internet e a cloud, ele está no celular e tablets no bolso de bilhões de seres humanos, em dispositivos embarcados, computadores, servidores e em praticamente todos os supercomputadores usados em pesquisas para o avanço da ciência. Nesta apresentação serão vistos brevemente conceitos importantes sobre o Software Livre e como ele pode te ajudar na tua jornada profissional.
 
-### Equipe Tchelinux
+### Leonardo Vaz
 
-Re-fundado por amigos em 2006, o [Tchelinux](https://tchelinux.org/) é um dos maiores grupos de usuários de Software Livre do mundo em [número de membros e atividades](https://wiki.tchelinux.org/#!eventos/historico_eventos.md), tem como principal objetivo levar o conhecimento à estudantes e demais interessados através da organização de eventos gratuitos e promover a caridade. Saiba um pouco mais sobre nossa história em [nosso website](https://wiki.tchelinux.org/#!sobre.md) e [junte-se a nós](https://wiki.tchelinux.org/#!como_participar.md)!
+[Leonardo Vaz](https://tchelinux.org/) usa Software Livre desde 1998 e em 2006 ajudou a fundar a formação atual do [Tchelinux](https://tchelinux.org/) junto com seus amigos.
 
 ### Porque e Como Participar de Projetos Open Source
 
